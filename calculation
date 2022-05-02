@@ -1,1 +1,5 @@
 echo "welcome calculas"
+
+num1=18
+num2=17
+sum=num1+num2
